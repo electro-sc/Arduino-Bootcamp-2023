@@ -9,7 +9,7 @@
 2. Go to "Include Library".
 3. Click on "Add .Zip Library" button.
 
-![image](../Images/ZipLibInstall.png)
+![image](../RepoImages/ZipLibInstall.png)
 
 4. Navigate to your [Libraries](../Libraries) folder and select the library you want to install.
 5. Click okay.
