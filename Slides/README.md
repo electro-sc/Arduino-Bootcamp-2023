@@ -3,8 +3,8 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 
-## Codes
-Itcontains PowerPoint presentations that we use to teach the material for each section. These slides provide an overview of the concepts covered in that section, as well as code snippets and diagrams to help explain the concepts.
+## Slides
+It contains PowerPoint presentations that we use to teach the material for each section. These slides provide an overview of the concepts covered in that section, as well as code snippets and diagrams to help explain the concepts.
 
 ## Content
 
